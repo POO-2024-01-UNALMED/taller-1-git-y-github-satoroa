@@ -1,1 +1,4 @@
 Samuel Toro Agudelo - 18 años - mis aspiraciones con la materia es empezar en una de las ramas de la programacion como lo es POO y poder aprender mas de este mundo 
+se pudo subir la carpeta porque ya tiene un archivo dentro de ella y eso si es un cambio que permite realizar un commit
+
+es importante el tener cuidado al modificar archivos al mismo tiempo porque esto puede generar un problema entre el github web y el github desktop dando conflictos
