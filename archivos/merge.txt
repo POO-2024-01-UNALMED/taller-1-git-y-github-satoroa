@@ -1,0 +1,1 @@
+se pudo subir la carpeta porque ya tiene un archivo dentro de ella y eso si es un cambio que permite realizar un commit
